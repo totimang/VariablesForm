@@ -1,0 +1,10 @@
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\bin\Debug\Clase5_ejercicio3.exe
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\bin\Debug\Clase5_ejercicio3.pdb
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\bin\Debug\Clase5_ejercicio3.xml
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\obj\Debug\Clase5_ejercicio3.vbproj.GenerateResource.Cache
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\obj\Debug\Clase5_ejercicio3.exe
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\obj\Debug\Clase5_ejercicio3.xml
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Clase5_ejercicio3\Clase5_ejercicio3\obj\Debug\Clase5_ejercicio3.pdb
